@@ -1,3 +1,5 @@
 # MomentumV2
 
-added thing to momentum go use the real one 
+added things to momentum go use the real one 
+
+https://github.com/Nexus-FN/Momentum
